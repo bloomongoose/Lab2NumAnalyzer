@@ -13,32 +13,20 @@ namespace Lab2NumAnalyzer
             Console.WriteLine("Welcome to the Number Analyzer 3000. Please enter your name. ");
             string name = Console.ReadLine();
 
+            //This while loop continuously repeats question unless user opts out.
             while (numAnalyze)
             {
                
                 Console.WriteLine($"Hey there, {name}. Now enter a number between 1 and 100.");
                 int number = int.Parse(Console.ReadLine());
-
-                /*while (number < 1 || number > 100 )
-                {
-                    Console.WriteLine($"C'mon {name}, I said between 1 and 100. Try again");
-                    Console.ReadLine();
-                    break;
-                }*/
-                
+                             
+                //This checks to see if number is odd
                 if (number % 2 == 1)
-                {
-                    if (number % 2 == 1)
-                    {
-                        Console.WriteLine($"{number} is odd, {name}.");
-                    }
-                    else if (number % 2 == 1 && number > 60)
-                    {
-                        Console.WriteLine($"{number} is odd, {name}.");
-                    }
-
+                {                  
+                        Console.WriteLine($"{number} is odd, {name}.");                                      
                 }
 
+                //This part checks to see if number is even
                 else if (number % 2 == 0)
                 {
                     if (number >= 2 && number <= 25)
@@ -57,6 +45,7 @@ namespace Lab2NumAnalyzer
 
                 }
 
+                //The following lines ask user if they want to repeat, and exits program if they don't.
                 Console.WriteLine("Analyze another number? Y/N");
                 string askAgain = Console.ReadLine();
 
