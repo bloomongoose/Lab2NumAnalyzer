@@ -1,0 +1,14 @@
+C:\Users\radee\source\repos\Lab2NumAnalyzer\Lab2NumAnalyzer\bin\Debug\netcoreapp3.1\Lab2NumAnalyzer.exe
+C:\Users\radee\source\repos\Lab2NumAnalyzer\Lab2NumAnalyzer\bin\Debug\netcoreapp3.1\Lab2NumAnalyzer.deps.json
+C:\Users\radee\source\repos\Lab2NumAnalyzer\Lab2NumAnalyzer\bin\Debug\netcoreapp3.1\Lab2NumAnalyzer.runtimeconfig.json
+C:\Users\radee\source\repos\Lab2NumAnalyzer\Lab2NumAnalyzer\bin\Debug\netcoreapp3.1\Lab2NumAnalyzer.runtimeconfig.dev.json
+C:\Users\radee\source\repos\Lab2NumAnalyzer\Lab2NumAnalyzer\bin\Debug\netcoreapp3.1\Lab2NumAnalyzer.dll
+C:\Users\radee\source\repos\Lab2NumAnalyzer\Lab2NumAnalyzer\bin\Debug\netcoreapp3.1\Lab2NumAnalyzer.pdb
+C:\Users\radee\source\repos\Lab2NumAnalyzer\Lab2NumAnalyzer\obj\Debug\netcoreapp3.1\Lab2NumAnalyzer.csproj.AssemblyReference.cache
+C:\Users\radee\source\repos\Lab2NumAnalyzer\Lab2NumAnalyzer\obj\Debug\netcoreapp3.1\Lab2NumAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radee\source\repos\Lab2NumAnalyzer\Lab2NumAnalyzer\obj\Debug\netcoreapp3.1\Lab2NumAnalyzer.AssemblyInfoInputs.cache
+C:\Users\radee\source\repos\Lab2NumAnalyzer\Lab2NumAnalyzer\obj\Debug\netcoreapp3.1\Lab2NumAnalyzer.AssemblyInfo.cs
+C:\Users\radee\source\repos\Lab2NumAnalyzer\Lab2NumAnalyzer\obj\Debug\netcoreapp3.1\Lab2NumAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\radee\source\repos\Lab2NumAnalyzer\Lab2NumAnalyzer\obj\Debug\netcoreapp3.1\Lab2NumAnalyzer.dll
+C:\Users\radee\source\repos\Lab2NumAnalyzer\Lab2NumAnalyzer\obj\Debug\netcoreapp3.1\Lab2NumAnalyzer.pdb
+C:\Users\radee\source\repos\Lab2NumAnalyzer\Lab2NumAnalyzer\obj\Debug\netcoreapp3.1\Lab2NumAnalyzer.genruntimeconfig.cache
